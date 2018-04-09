@@ -1,0 +1,269 @@
+[
+    {
+      "area": "Barking and Dagenham",
+      "population": 209000,
+      "bars-and-pubs": 20,
+      "rent": 943,
+      "crime": "14638",
+      "crime-per-pop": "70.03827751"
+    },
+    {
+      "area": "Barnet",
+      "population": 389600,
+      "bars-and-pubs": 100,
+      "rent": 1135,
+      "crime": "21549",
+      "crime-per-pop": "55.31057495"
+    },
+    {
+      "area": "Bexley",
+      "population": 244300,
+      "bars-and-pubs": 90,
+      "rent": 821,
+      "crime": "11163",
+      "crime-per-pop": "45.69381907"
+    },
+    {
+      "area": "Brent",
+      "population": 332100,
+      "bars-and-pubs": 75,
+      "rent": 1240,
+      "crime": "23237",
+      "crime-per-pop": "69.96988859"
+    },
+    {
+      "area": "Bromley",
+      "population": 327900,
+      "bars-and-pubs": 100,
+      "rent": 972,
+      "crime": "17243",
+      "crime-per-pop": "52.58615432"
+    },
+    {
+      "area": "Camden",
+      "population": 242500,
+      "bars-and-pubs": 225,
+      "rent": 1612,
+      "crime": "25390",
+      "crime-per-pop": "104.7010309"
+    },
+    {
+      "area": "City of London",
+      "population": 8800,
+      "bars-and-pubs": 150,
+      "rent": 1883,
+      "crime": "N/A",
+      "crime-per-pop": "N/A"
+    },
+    {
+      "area": "Croydon",
+      "population": 386500,
+      "bars-and-pubs": 90,
+      "rent": 926,
+      "crime": "25777",
+      "crime-per-pop": "66.69340233"
+    },
+    {
+      "area": "Ealing",
+      "population": 351600,
+      "bars-and-pubs": 100,
+      "rent": 1232,
+      "crime": "23684",
+      "crime-per-pop": "67.36063709"
+    },
+    {
+      "area": "Enfield",
+      "population": 333000,
+      "bars-and-pubs": 75,
+      "rent": 1035,
+      "crime": "19401",
+      "crime-per-pop": "58.26126126"
+    },
+    {
+      "area": "Greenwich",
+      "population": 280100,
+      "bars-and-pubs": 70,
+      "rent": 1123,
+      "crime": "20023",
+      "crime-per-pop": "71.48518386"
+    },
+    {
+      "area": "Hackney",
+      "population": 274300,
+      "bars-and-pubs": 160,
+      "rent": 1472,
+      "crime": "24933",
+      "crime-per-pop": "90.89682829"
+    },
+    {
+      "area": "Hammersmith and Fulham",
+      "population": 185300,
+      "bars-and-pubs": 105,
+      "rent": 1435,
+      "crime": "17629",
+      "crime-per-pop": "95.13761468"
+    },
+    {
+      "area": "Haringey",
+      "population": 278000,
+      "bars-and-pubs": 75,
+      "rent": 1229,
+      "crime": "23894",
+      "crime-per-pop": "85.94964029"
+    },
+    {
+      "area": "Harrow",
+      "population": 252300,
+      "bars-and-pubs": 55,
+      "rent": 1055,
+      "crime": "11309",
+      "crime-per-pop": "44.82362267"
+    },
+    {
+      "area": "Havering",
+      "population": 254300,
+      "bars-and-pubs": 65,
+      "rent": 846,
+      "crime": "14680",
+      "crime-per-pop": "57.72709398"
+    },
+    {
+      "area": "Hillingdon",
+      "population": 301000,
+      "bars-and-pubs": 90,
+      "rent": 973,
+      "crime": "19195",
+      "crime-per-pop": "63.77076412"
+    },
+    {
+      "area": "Hounslow",
+      "population": 274200,
+      "bars-and-pubs": 75,
+      "rent": 1200,
+      "crime": "19339",
+      "crime-per-pop": "70.52881109"
+    },
+    {
+      "area": "Islington",
+      "population": 231200,
+      "bars-and-pubs": 210,
+      "rent": 1590,
+      "crime": "23254",
+      "crime-per-pop": "100.5795848"
+    },
+    {
+      "area": "Kensington and Chelsea",
+      "population": 159000,
+      "bars-and-pubs": 120,
+      "rent": 2181,
+      "crime": "17206",
+      "crime-per-pop": "108.2138365"
+    },
+    {
+      "area": "Kingston upon Thames",
+      "population": 175400,
+      "bars-and-pubs": 65,
+      "rent": 1108,
+      "crime": "8739",
+      "crime-per-pop": "49.82326112"
+    },
+    {
+      "area": "Lambeth",
+      "population": 328900,
+      "bars-and-pubs": 150,
+      "rent": 1340,
+      "crime": "29787",
+      "crime-per-pop": "90.56552144"
+    },
+    {
+      "area": "Lewisham",
+      "population": 303400,
+      "bars-and-pubs": 65,
+      "rent": 1125,
+      "crime": "20654",
+      "crime-per-pop": "68.07514832"
+    },
+    {
+      "area": "Merton",
+      "population": 208100,
+      "bars-and-pubs": 55,
+      "rent": 1199,
+      "crime": "10973",
+      "crime-per-pop": "52.72945699"
+    },
+    {
+      "area": "Newham",
+      "population": 342900,
+      "bars-and-pubs": 50,
+      "rent": 1177,
+      "crime": "26306",
+      "crime-per-pop": "76.7162438"
+    },
+    {
+      "area": "Redbridge",
+      "population": 304200,
+      "bars-and-pubs": 55,
+      "rent": 966,
+      "crime": "16963",
+      "crime-per-pop": "55.76265615"
+    },
+    {
+      "area": "Richmond upon Thames",
+      "population": 197300,
+      "bars-and-pubs": 125,
+      "rent": 1199,
+      "crime": "9780",
+      "crime-per-pop": "49.56918398"
+    },
+    {
+      "area": "Southwark",
+      "population": 314300,
+      "bars-and-pubs": 185,
+      "rent": 1377,
+      "crime": "27529",
+      "crime-per-pop": "87.58829144"
+    },
+    {
+      "area": "Sutton",
+      "population": 202600,
+      "bars-and-pubs": 55,
+      "rent": 896,
+      "crime": "9102",
+      "crime-per-pop": "44.92596249"
+    },
+    {
+      "area": "Tower Hamlets",
+      "population": 304000,
+      "bars-and-pubs": 130,
+      "rent": 1515,
+      "crime": "26005",
+      "crime-per-pop": "85.54276316"
+    },
+    {
+      "area": "Waltham Forest",
+      "population": 276200,
+      "bars-and-pubs": 50,
+      "rent": 1056,
+      "crime": "17899",
+      "crime-per-pop": "64.8044895"
+    },
+    {
+      "area": "Wandsworth",
+      "population": 321000,
+      "bars-and-pubs": 135,
+      "rent": 1403,
+      "crime": "20809",
+      "crime-per-pop": "64.82554517"
+    },
+    {
+      "area": "Westminster",
+      "population": 242100,
+      "bars-and-pubs": 440,
+      "rent": 1973,
+      "crime": "42414",
+      "crime-per-pop": "175.1920694",
+      "tweets": [
+          "
+      ]
+    }
+   ]

@@ -1,0 +1,14 @@
+.row {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+html {
+    margin: 0;
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scrollbar;
+    -webkit-tap-highlight-color: transparent;
+  }

@@ -18,6 +18,7 @@ $(document).ready(function() {
                 '<div>Crime: ' + area['crime'] + '</div>',
                 '<div>Crime per Population: ' + area['crime-per-pop'] + '</div>',
                 '<div>Rent: ' + area['rent'] + '</div>',
+                
             ];
 
             $('.area-details').html(area_info);

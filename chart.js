@@ -13,7 +13,7 @@ Highcharts.chart('container', {
     },
 
     title: {
-        text: 'Rents and crime rates per borough'
+        text: 'Rent compared to Crime Rates for each London borough'
     },
 
     subtitle: {
@@ -23,10 +23,10 @@ Highcharts.chart('container', {
     xAxis: {
         gridLineWidth: 1,
         title: {
-            text: 'Average rent for one bedroom flat'
+            text: 'Average rent for a one bedroom flat'
         },
         labels: {
-            format: '{value} £'
+            format: '£{value}'
         },
         plotLines: [{
             color: 'black',

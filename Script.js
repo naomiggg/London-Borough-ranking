@@ -36,7 +36,7 @@ $(document).ready(function() {
     accessToken: 'pk.eyJ1IjoibmFvbWlnIiwiYSI6ImNqZnU3ZmV5NjAxb3oycG1hbzllN2x5dmIifQ.pXBlEaoKwx_yPBesCr5X_A'
 }).addTo(mymap);
 
-    var marker = L.marker([51.54527673, -0.13352768]).addTo(mymap);
+    var marker = L.marker([51.54527673, 0.13352768]).addTo(mymap);
 
     marker.bindPopup("<b>Barking and Dagenham</b><br>Population: 209k Bars and Pubs: 20 Crime: 14638 Crime per Population: 70.03827751 Rent: 943").openPopup();
 

@@ -3,6 +3,10 @@
     margin-left: 50px;
     margin-right: 50px;
 }
+body{
+
+   background-color: #fdfdfd; 
+}
 html {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -12,7 +16,7 @@ html {
     -ms-overflow-style: scrollbar;
     -webkit-tap-highlight-color: transparent;
     text-align: left;
-    background-color: ghostwhite;
+
   }
 .highcharts-tooltip h3 {
     margin: 0.3em 0;
@@ -25,4 +29,4 @@ section {
 #mapid { height: 180px;
 
 }
-
+img.london { float: left; } 

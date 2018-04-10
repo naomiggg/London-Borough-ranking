@@ -5,7 +5,7 @@
 }
 body{
 
-   background-color: #fdfdfd; 
+   background-color: #f3f3f3; color: #232323;
 }
 html {
     margin: 0;
@@ -32,8 +32,30 @@ section {
 .content {
     background: white;
     max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+margin-top: 40px;
+    
 }
 
-.charts {
-    margin-top: 30px;
+.inner {
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+    padding-bottom: 80px;
 }
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.charts {margin-top: 90px;
+}
+
+img.london {
+max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.area-details{     margin-top: 20px;     font-size: 15px; }
+.area-details div { margin-bottom: 10px;}

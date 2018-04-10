@@ -12,12 +12,14 @@ $(document).ready(function() {
             var area = data.find(item => item['area'] === this.value);
 
             var area_info = [
-                '<div>Area Name: ' + area['area'] + '</div>',
-                '<div>Population 2017: ' + area['population'] + '</div>',
-                '<div>Bars and Pubs: ' + area['bars-and-pubs'] + '</div>',
-                '<div>Crime: ' + area['crime'] + '</div>',
-                '<div>Crime per 1000 residents: ' + area['crime-per-pop'] + '</div>',
-                '<div>Average rent for a one bedroom flat: ' + area['rent'] + '</div>',
+                '<div><strong>Area Name:</strong> ' + area['area'] + '</div>',
+                '<div><strong>Population 2017:</strong> ' + area['population'] + '</div>',
+                '<div><strong>Bars and Pubs:</strong> ' + area['bars-and-pubs'] + '</div>',
+                '<div><strong>Crime:</strong> ' + area['crime'] + '</div>',
+                '<div><strong>Crime per 1000 residents:</strong> ' + area['crime-per-pop'] + '</div>',
+                '<div><strong>Average rent for a one bedroom flat:</strong> £' + area['rent'] + '</div>',
+                '<div><strong>Schools:</strong> ' + area['schools'] + '</div>',
+                '<div><strong>Independent Schools:</strong> ' + area['independent-schools'] + '</div>',
                 
             ];
 

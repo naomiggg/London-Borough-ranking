@@ -38,7 +38,7 @@ $(document).ready(function() {
 
 var marker = L.marker([51.54527673, -0.13352768]).addTo(mymap);
 
-marker.bindPopup("<b>Westminister</b><br>Population: 209k Bars and Pubs: 20 Crime: 14638 Crime per Population: 70.03827751 Rent: 943").openPopup();
+marker.bindPopup("<b>Barking and Dagenham</b><br>Population: 209k Bars and Pubs: 20 Crime: 14638 Crime per Population: 70.03827751 Rent: 943").openPopup();
 
 });
 

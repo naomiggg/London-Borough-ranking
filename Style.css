@@ -27,6 +27,13 @@ section {
     
 }
 #mapid { height: 180px;
-
 }
-img.london { float: left; } 
+
+.content {
+    background: white;
+    max-width: 70%;
+}
+
+.charts {
+    margin-top: 30px;
+}

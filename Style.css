@@ -12,9 +12,11 @@ html {
     -ms-overflow-style: scrollbar;
     -webkit-tap-highlight-color: transparent;
     text-align: center;
-    background-color: blanchedalmond;
+    background-color: azure;
   }
-
+.highcharts-tooltip h3 {
+    margin: 0.3em 0;
+}
 section {
     margin: 0;
     background-color: aquamarine;

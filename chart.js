@@ -1,7 +1,6 @@
 
 
-$(function() {
-    var myChart = Highcharts.chart('container', {
+Highcharts.chart('container', {
 
     chart: {
         type: 'scatter',

@@ -11,8 +11,8 @@ html {
     -ms-text-size-adjust: 100%;
     -ms-overflow-style: scrollbar;
     -webkit-tap-highlight-color: transparent;
-    text-align: center;
-    background-color: azure;
+    text-align: left;
+    background-color: ghostwhite;
   }
 .highcharts-tooltip h3 {
     margin: 0.3em 0;
@@ -22,7 +22,7 @@ section {
     background-color: aquamarine;
     
 }
-#mapid { height: 180px;
+#mapid { height: 500px;
 
 }
 

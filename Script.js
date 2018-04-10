@@ -13,11 +13,11 @@ $(document).ready(function() {
 
             var area_info = [
                 '<div>Area Name: ' + area['area'] + '</div>',
-                '<div>Population: ' + area['population'] + '</div>',
+                '<div>Population 2017: ' + area['population'] + '</div>',
                 '<div>Bars and Pubs: ' + area['bars-and-pubs'] + '</div>',
                 '<div>Crime: ' + area['crime'] + '</div>',
-                '<div>Crime per Population: ' + area['crime-per-pop'] + '</div>',
-                '<div>Rent: ' + area['rent'] + '</div>',
+                '<div>Crime per 1000 residents: ' + area['crime-per-pop'] + '</div>',
+                '<div>Average rent for a one bedroom flat: ' + area['rent'] + '</div>',
                 
             ];
 
@@ -40,5 +40,8 @@ var marker = L.marker([51.54527673, -0.13352768]).addTo(mymap);
 
 marker.bindPopup("<b>Barking and Dagenham</b><br>Population: 209k Bars and Pubs: 20 Crime: 14638 Crime per Population: 70.03827751 Rent: 943").openPopup();
 
+L.marker([51.61602714, -0.210017107].addTo(mymap).bindPopup("<b>Barnet</b><br>Population: 209k Bars and Pubs: 20 Crime: 14638 Crime per Population: 70.03827751 Rent: 943").openPopup();;
+L.marker([51.495, -0.083].addTo(mymap).bindPopup("I am a red leaf.");
+L.marker([51.49, -0.1].addTo(mymap).bindPopup("I am an orange leaf.");
 });
 

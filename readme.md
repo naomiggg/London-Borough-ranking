@@ -19,9 +19,13 @@ Twitter scraping:
 ## Where I got my data from 
 
 Data sources:
--London Datastore - 
+London Datastore
+
 -Rent: https://data.london.gov.uk/dataset/average-private-rents-borough 
+
 -Overview: https://data.london.gov.uk/dataset/london-borough-profiles
+
 -Crime:https://data.london.gov.uk/dataset/recorded_crime_rates 
+
 -Schools:https://data.london.gov.uk/dataset/schools-and-pupils-type-school-borough 
 

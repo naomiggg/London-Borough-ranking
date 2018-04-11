@@ -1,7 +1,7 @@
 [
   {
     "area": "Barking and Dagenham",
-    "latitude": 51.5155,
+    "latitude": 51.54527673,
     "longitude": 0.13352768,
     "population": 209000,
     "bars-and-pubs": 20,
@@ -157,7 +157,7 @@
   },
   {
     "area": "Bromley",
-    "latitude": 51.5588,
+    "latitude": 51.3719994,
     "longitude": 0.051524176,
     "population": 327900,
     "bars-and-pubs": 100,
@@ -240,8 +240,8 @@
     "population": 8800,
     "bars-and-pubs": 150,
     "rent": 1883,
-    "crime": "-",
-    "crime-per-pop": "#VALUE!",
+    "crime": "No data",
+    "crime-per-pop": "No data",
     "schools": 5,
     "independent-schools": 4,
     "tweets": [

@@ -1,6 +1,7 @@
 $(document).ready(function() {
 
     var select = $('<select><option>Choose Area</option></select>').appendTo('.selection');
+    var selectDatas = $('.selection-types select');
 
     $.get('boroughs.json', function(data) {
 
@@ -30,6 +31,34 @@ $(document).ready(function() {
             ];
 
             $('.area-details').html(area_info);
+        });
+
+        selectDatas.change(function(e) {
+
+            var type = this.value;
+            
+
+            if(type) {
+
+                var area_info = [];
+
+                $.each(data, function(index, item) {
+                    
+                    area_info.push(
+                        '<div><strong>' + item['area'] + '</strong> ' + item[type] + '</div>'
+                    );
+    
+                    
+    
+                });
+    
+                $('.area-details-types').html(area_info);
+            } else {
+                $('.area-details-types').html('Select data type from the list');
+            }
+
+          
+            
         });
 
 

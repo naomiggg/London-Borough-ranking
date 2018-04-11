@@ -59,8 +59,8 @@ max-width: 100%;
     margin-bottom: 20px;
 }
 
-.area-details{  background: #f7f7f7;   margin-top: 20px;     font-size: 15px; padding: 25px; padding-top:25px; }
-.area-details div { margin-bottom: 10px;}
+.area-details,.area-details-types{  background: #f7f7f7;   margin-top: 20px;     font-size: 15px; padding: 25px; padding-top:25px; }
+.area-details div,.area-details-types div { margin-bottom: 10px;}
 
 #mapid { margin-top:50px; }
 

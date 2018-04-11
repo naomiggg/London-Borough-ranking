@@ -40,15 +40,29 @@ $(document).ready(function() {
 
             if(type) {
 
-                var area_info = [];
+                var all_type_data = [];
 
                 $.each(data, function(index, item) {
+                    all_type_data.push({
+                        area: item['area'],
+                        value: item[type]
+                    });
+                });
+
+                all_type_data.sort(function(a, b) {
+                    return b.value - a.value;
+                });
+
+
+                var area_info = [];
+
+                $.each(all_type_data, function(index, item) {
                     
                     area_info.push(
-                        '<div><strong>' + item['area'] + '</strong> ' + item[type] + '</div>'
+                        '<div><strong>' + item['area'] + '</strong> ' + item['value'] + '</div>'
                     );
     
-                    
+               
     
                 });
     
